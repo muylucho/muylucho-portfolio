@@ -1,6 +1,6 @@
-# Muylucho Portfolio - Diego & Facha Style
+# Muylucho Portfolio
 
-Tu portfolio custom inspirado en Diego & Facha (minimalista + editorial) pero con tu estética personal.
+Tu portfolio custom
 
 ## 🚀 Quick Start
 
